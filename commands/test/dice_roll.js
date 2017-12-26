@@ -9,7 +9,7 @@ class DiceRoll extends commando.Command {
             name: 'roll',
             group: 'test',
             memberName: 'roll',
-            description: 'Rolls a die'
+            description: 'Rolls a 6 sided die.'
         });
     }
 
